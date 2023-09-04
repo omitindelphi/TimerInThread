@@ -50,7 +50,7 @@ object StarterThreadDemoForm: TStarterThreadDemoForm
     OnClick = bThreadCreateClick
   end
   object ImageList1: TImageList
-    DrawingStyle = dsTransparent
+    DrawingStyle = dsNormal
     Height = 124
     ShareImages = True
     Width = 124
