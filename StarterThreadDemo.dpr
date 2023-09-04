@@ -5,8 +5,7 @@ uses
   StarterThreadDemoForm_ in 'StarterThreadDemoForm_.pas' {StarterThreadDemoForm},
   TimerDM_ in 'TimerDM_.pas' {DataModule1: TDataModule},
   MessagePumpSleepThread in 'MessagePumpSleepThread.pas',
-  DMTimerThread in 'DMTimerThread.pas',
-  DMTimerHeartThread in 'DMTimerHeartThread.pas';
+  DMTimerThread in 'DMTimerThread.pas';
 
 {$R *.res}
 
